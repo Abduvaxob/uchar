@@ -3,6 +3,7 @@
     "main.css": "/static/css/main.95ce3cd3.css",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "main.js": "/static/js/main.a42e1248.js",
     "static/media/background.jpg": "/static/media/background.b42f99f0fca865ecc8c9.jpg",
     "index.html": "/index.html",
@@ -34,5 +35,16 @@
     "static/css/main.95ce3cd3.css",
     "static/js/main.8645ac21.js"
 >>>>>>> 39e8d84 (added)
+=======
+    "main.js": "/static/js/main.a7514e3c.js",
+    "static/media/background.jpg": "/static/media/background.b42f99f0fca865ecc8c9.jpg",
+    "index.html": "/index.html",
+    "main.95ce3cd3.css.map": "/static/css/main.95ce3cd3.css.map",
+    "main.a7514e3c.js.map": "/static/js/main.a7514e3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95ce3cd3.css",
+    "static/js/main.a7514e3c.js"
+>>>>>>> 2f6027b (added)
   ]
 }
